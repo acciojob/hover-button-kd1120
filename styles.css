@@ -4,8 +4,7 @@
 	background-color:black;
 	border:none;
 	bordr-radius:5px;
-	button-type:submit;
-}
+	}
 #btn:hover{
 	color: yellow;
 	background-color:black;
